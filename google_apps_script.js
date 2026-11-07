@@ -1,0 +1,1 @@
+function doPost(e){const s=SpreadsheetApp.getActiveSpreadsheet().getSheets()[0];const d=JSON.parse(e.postData.contents);s.appendRow([new Date(),d.info?.phone||'',JSON.stringify(d)]);return ContentService.createTextOutput('OK');}

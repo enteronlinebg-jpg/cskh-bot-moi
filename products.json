@@ -1,0 +1,70 @@
+[
+  {
+    "id": "polo_horse",
+    "name": "Ao Polo Horse Trang",
+    "price": 370000,
+    "old_price": 529000,
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Trang",
+      "Den"
+    ],
+    "desc": "Cotton cao cap co gian 4 chieu, tham hut mo hoi, khong xu long, mac the thao thoai mai",
+    "stock": 50,
+    "image": "https://link-anh-cua-ban/polo-horse.jpg",
+    "goi_y_phoi": [
+      "quan_smart"
+    ]
+  },
+  {
+    "id": "polo_falcon",
+    "name": "Ao Polo Falcon Basic",
+    "price": 350000,
+    "old_price": 499000,
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL"
+    ],
+    "colors": [
+      "Trang",
+      "Xanh",
+      "Den"
+    ],
+    "desc": "Form basic de mac, vai mat, giu form sau nhieu lan giat",
+    "stock": 30,
+    "image": "",
+    "goi_y_phoi": [
+      "quan_smart"
+    ]
+  },
+  {
+    "id": "quan_smart",
+    "name": "Quan Tay Smart Trousers Nau",
+    "price": 480000,
+    "old_price": 685000,
+    "sizes": [
+      "29",
+      "30",
+      "31",
+      "32",
+      "33"
+    ],
+    "colors": [
+      "Nau",
+      "Den"
+    ],
+    "desc": "Vai tay co gian nhe, dung form, phoi cuc hop voi Polo trang",
+    "stock": 40,
+    "image": "",
+    "goi_y_phoi": [
+      "polo_horse"
+    ]
+  }
+]
